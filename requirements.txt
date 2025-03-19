@@ -1,0 +1,11 @@
+numpy
+qiskit
+qiskit-aer
+simpy
+matplotlib
+qiskit_ibm_runtime
+pylatexenc
+qiskit_algorithms
+tqdm
+ipympl
+pandas
